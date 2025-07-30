@@ -22,6 +22,6 @@ I am a Full Stack Software Engineer and Instructor at Sabio School of Software E
 
 Feel free to reach out to me for any queries or collaboration opportunities:
 
-- Email: andresj.correas@gmail.com
+- Email: andresj.correas@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/andres-correa-7aa819244/)
 
